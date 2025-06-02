@@ -1,2 +1,2 @@
 # demo-repo
-this is just a practice to learn github
+this is just a practice to learn github.
